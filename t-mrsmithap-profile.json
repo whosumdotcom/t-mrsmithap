@@ -1,0 +1,26 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-07T21:24:02Z",
+  "IdClaims": [
+    {
+      "Claim": "t:mrsmithap"
+    },
+    {
+      "Claim": "spout:mrsmith"
+    },
+    {
+      "Claim": "mdon:@mrsmith@journa.host"
+    }
+  ],
+  "IdDisclaims": null,
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "4f4f6319a7a68a70386cf3dd",
+    "Timestamp": "2023-04-07T21:26:22Z",
+    "Signature": "3f574eee627a22701bf7dbb14d6b1e354a898cba1cb3676f8c99168f52bfed70360af46d67977711fcfb1cc9d9b4eed63984b81d3247e4c186c424f3b5120dc7746a0c933e7e6da01937ae20d940ab7d2eb378f07848053744c04cf3286e6795f7ab5c782f0900199707c4432dbf917292403f026479f78cddf7587afdc9eeed57d378ae78a0aa405d82cca9920bae0d71adeb6b5eb09be5665cc98ac350a1ca405ddd46b7b2d90a3c943dac85cc63b7630952ebf542e3b92e7ae8fa829f37174328ec81993261d172764a13feb77ce6e97405638b32b618760b511c832fef6a69171002235b1ff5d0138127fb2306c9df62db0832e7d96d4b265c6aea2ca583"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "3b136eda4096e15e8cd2a8574f766384881917d6e998ba1d8c9c6bed8e4c6914",
+  "ContentToHash": "v1|mdon:@mrsmith@journa.host,spout:mrsmith,t:mrsmithap|2023-04-07T21:24:02Z"
+}
